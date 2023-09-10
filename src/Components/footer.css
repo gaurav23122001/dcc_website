@@ -1,0 +1,159 @@
+
+.footer-wrapper{
+    background-color: #0E0F18;
+    color: aliceblue;
+    font-family: 'Montserrat', sans-serif;
+    background-image: url('./Rectangle\ 15.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 5rem;
+}
+
+.full{
+    display: flex;
+    flex-direction: column;
+    margin: 0 10%;
+}
+
+.logo{
+    display: flex;
+    align-items: flex-end;
+}
+
+.firstContainer{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 75px;
+    margin-bottom: 30px;
+}
+
+
+.events{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.events p{
+    padding: 10px;
+}
+.events p a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.secondContainer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.location{
+    padding-right: 20px;
+}
+
+.location h3{
+    padding-bottom: 20px;
+}
+
+.location p{
+    color: rgb(195, 202, 209);
+}
+
+.social h3{
+    text-align: end;
+    padding: 10px;
+}
+
+.imgContainer{
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.social img{
+    width: 60px;
+    padding: 0 15px;
+}
+
+.events-hidden{
+    visibility: hidden;
+    position: absolute;
+}
+
+@media screen and (max-width: 800px) {
+    .firstContainer{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .secondContainer{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .location h3{
+        padding-bottom: 20px;
+        text-align: center;
+    }
+
+    .location p{
+        text-align: center;
+    }
+
+    .social{
+        margin: 20px;
+    }
+
+    .social h3{
+        text-align: center;
+        padding: 5px;
+    }
+
+    .social img{
+        width: 40px;
+        padding: 0 6px;
+        margin: 0 10px;
+    }
+
+    .events{
+        display: flex;
+        position: absolute;
+        bottom: -55px;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        z-index: 1;
+        visibility: hidden;
+    }
+    
+    .events-hidden {
+        visibility: visible;
+        position: inherit;
+        display: flex;
+        flex-direction: row;
+    }
+
+    .events-hidden span{
+        margin: 1rem 2rem;
+    }
+
+    .events-hidden span a{
+        color: #B7B9BD;
+        text-decoration: none;
+        transition: 0.5s;
+
+    }
+
+    .events-hidden span a:hover{
+        color: #b7b9bd86;
+        transition: 0.5s;
+    }
+  }
+
+  @media (max-width:1469px){
+    .logo{
+        align-items: flex-start;
+    }
+  }

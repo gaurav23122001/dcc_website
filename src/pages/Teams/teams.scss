@@ -1,0 +1,175 @@
+  body{
+    overflow-x: hidden;
+  }
+  
+  .teams-page{
+    background: #0E0F18;
+    padding: 1rem 10px 0;
+    gap: 16px;
+    padding-bottom: 20px;
+    overflow-x: hidden;
+  }
+  .teams-page .team {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .teams-page .page-heading{
+  font-family: 'Cabin';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 42px;
+  line-height: 98px;
+  text-align: center;
+  color: #FFFFFF;
+  margin-bottom: 50px;
+  }
+  
+  .teams-page .row1,
+  .teams-page .row2 {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    align-content: center;
+    margin-bottom: 3rem;
+  }
+  
+  .teams-page .row1 > * {
+    flex: 49% 49%;
+  }
+  
+  .teams-page .heading-dark {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 50px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 10px;
+  }
+  
+  .teams-page .cover {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 120px;
+    margin-bottom: 10px;
+  }
+  
+  .teams-page .card-footer {
+    color: #000;
+    padding: 5px;
+  }
+  
+  .teams-page .card1 {
+    display: block;
+    width: 150px;
+    height: 250px;
+    background: #232536;
+    border-radius: 10px;
+    padding: 15px;
+    transition: 0.5s;
+  }
+
+  .teams-page .card1:hover{
+  border-color: #0E0F18;
+  -webkit-box-shadow: 0px 8px 16px 15px rgba(72, 127, 255, 0.1),
+    0px -8px 16px 0px rgba(72, 127, 255, 0.1);
+  -moz-box-shadow: 0px 8px 16px 15px rgba(72, 127, 255, 0.1),
+    0px -8px 16px 0px rgba(72, 127, 255, 0.1);
+  box-shadow: 0px 2px 6px 6px rgba(72, 127, 255, 0.1),
+    0px -8px 16px 0px rgba(72, 127, 255, 0.1);
+    transform: translateY(-5px);
+  }
+  
+  .teams-page .photo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .teams-page .profile-name{
+    font-family: 'Cabin';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 140.6%;
+    color: #FFFFFF;
+  }
+  
+  .teams-page .profile-role{
+  font-family: 'Cabin';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 10px;
+  line-height: 140.6%;
+  letter-spacing: 0.10em;
+  color: #FFFFFF;
+  }
+
+  .teams-page .team-social{
+    display: flex;
+    justify-content: right;
+    margin-top: -14px;
+    font-size: large;
+  }
+
+  .teams-page .underline-header img {
+    width: 110vw;
+}
+
+.teams-page .underline-header {
+    text-align: center;
+    color: #fff;
+    font-size: 3rem;
+    margin-bottom: 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.teams-page .underline-header span {
+    position: relative;
+    top: 80px;
+}
+
+  @media screen and (max-width: 1000px) {
+
+    .teams-page .cover {
+      width: 120px;
+      height: 120px;
+      margin: 10px 0px;
+    }
+
+    .teams-page .underline-header span{
+      margin-bottom: 40px;
+  }
+  
+  }
+
+.fa-github-square {
+  color: #6e5494 !important;
+}
+
+.fa-github-square:hover {
+  color: whitesmoke !important;
+  cursor: pointer;
+}
+
+
+.in {
+  color: #0e76a8 !important;
+}
+
+.in:hover {
+  cursor: pointer;
+  color: whitesmoke !important;
+}
+  

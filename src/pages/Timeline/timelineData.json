@@ -1,0 +1,104 @@
+{
+    "events":[
+        {
+            "name":"Git Hub Master Class",
+            "type":"Dev",
+            "date":"September 16 2023"
+        },
+        {
+            "name":"CP ZEN",
+            "type":"CP",
+            "date":"September 17 2023"
+        },
+        {
+            "name":"Master Class on Bit Manipulation",
+            "type":"CP",
+            "date":"September 30 2023"
+        },
+        {
+            "name":"GSoC (Google Summer of Code)",
+            "type":"Dev",
+            "date":"October 1 2023"
+        },
+        {
+            "name":"Hacktober Fest",
+            "type":"Dev",
+            "date":"October 1 2023"
+        },
+        {
+            "name":"Major League Hacking and LFX",
+            "type":"Dev",
+            "date":"October 1 2023"
+        },
+        {
+            "name":"Understanding Flutter",
+            "type":"Dev",
+            "date":"October 14 2023"
+        },
+        {
+            "name":"Understanding Recursion",
+            "type":"DSA",
+            "date":"October 15 2023"
+        },
+        {
+            "name":"Understanding Backtrakcing",
+            "type":"DSA",
+            "date":"October 21 2023"
+        },
+        {
+            "name":"ML/AI : Introduction to the Future",
+            "type":"ML",
+            "date":"October 22 2023"
+        },
+        {
+            "name":"CP Titans",
+            "type":"Dev",
+            "date":"October 28 2023"
+        },
+        {
+            "name":"Graph 101",
+            "type":"DSA",
+            "date":"October 28 2023"
+        },
+        {
+            "name":"ICPC",
+            "type":"CP",
+            "date":"October 28 2023"
+        },
+        {
+            "name":"Build your First Android app: Android stepping stone",
+            "type":"Dev",
+            "date":"November 4 2023"
+        },
+        {
+            "name":"Train Your First ML Model",
+            "type":"ML",
+            "date":"November 5 2023"
+        },
+        {
+            "name":"React Fundamentals",
+            "type":"Dev",
+            "date":"November 11 2023"
+        },
+        {
+            "name":"Firebase Master Class",
+            "type":"Dev",
+            "date":"November 19 2023"
+        },
+        {
+            "name":"Understanding Mobile UI/UX",
+            "type":"Dev",
+            "date":"November 25 2023"
+        },
+        {
+            "name":"Hackathon",
+            "type":"Dev",
+            "date":"Decemeber 2 2023"
+        },
+        {
+            "name":"Backend Journey",
+            "type":"Dev",
+            "date":"Decemeber 4 2023"
+        }
+    ]
+}

@@ -1,0 +1,332 @@
+{
+  "president": [
+    {
+      "name": "Chetan Saini",
+      "profile_pic": "https://i.postimg.cc/qv2C5Zs5/Chetan-Saini.jpg",
+      "linkedin": "https://www.linkedin.com/in/chetan-saini-391793223",
+      "github": "https://github.com/ChetanSaini12",
+      "tags": "President"
+    }
+  ],
+  "vice president": [
+    {
+      "name": "Govind Singh",
+      "profile_pic": "https://i.postimg.cc/L6YPzsnR/261d1fe9-7501-4dd6-a10c-dec977ba13ed.jpg",
+      "linkedin": "https://www.linkedin.com/in/govind-singh-161bb0153/",
+      "github": "https://github.com/2058govindsingh",
+      "tags": "Vice President"
+    }
+  ],
+  "general secretary": [
+    {
+      "name": "Aryan",
+      "profile_pic": "https://i.postimg.cc/rpJR80YG/Aryan.jpg",
+      "linkedin": "hhttps://www.linkedin.com/in/aryan-280409221",
+      "github": "http://www.github.com/aryan20022003",
+      "tags": "General Secretary"
+    }
+  ],
+  "event head": [
+    {
+      "name": "Aditya Raj",
+      "profile_pic": "https://i.postimg.cc/TPGWMqQY/IMG-0181.jpg",
+      "linkedin": "https://www.linkedin.com/in/aditya-raj-7a0404220",
+      "github": "http://gist.github.com/aadiXDD",
+      "tags": "Event Head"
+    }
+  ],
+  "treasurer": [
+    {
+      "name": "Palak Priyadarshini",
+      "profile_pic": "https://i.postimg.cc/v8S9gn83/Whats-App-Image-2023-09-03-at-00-11-53.jpg",
+      "linkedin": "https://www.linkedin.com/in/palak-priyadarshni-587970230/",
+      "github": "hhttps://github.com/palakPriyaa",
+      "tags": "Treasurer"
+    }
+  ],
+  "web": [
+    {
+      "name": "Prakhar Srivastava",
+      "profile_pic": "https://res.cloudinary.com/dhzod7y8u/image/upload/v1693728837/PrakharKumarSrivastavaCopy_s42a69.jpg",
+      "linkedin": "http://www.linkedin.com/in/prakhar-kumar-srivastava-565292228",
+      "github": "https://github.com/prakharsrivs",
+      "tags": "Lead"
+    },
+    {
+      "name": "Arnab Das",
+      "profile_pic": "https://i.postimg.cc/7YXXbhGV/IMG-0180.jpg",
+      "linkedin": "https://www.linkedin.com/in/arnabdaz",
+      "github": "https://github.com/Arnabdaz",
+      "tags": "Lead"
+    },
+    {
+      "name": "Anurag Bhandari",
+      "profile_pic": "https://i.postimg.cc/rswJ89pk/IMG-0090.jpg",
+      "linkedin": "https://www.linkedin.com/in/anurag-bhandari-b63336251/",
+      "github": "https://github.com/GawdOfGithub",
+      "tags": "Team Member"
+    },
+    {
+      "name": "Yash Gupta",
+      "profile_pic": "https://i.postimg.cc/4dbVM2p5/IMG-0092.jpg",
+      "linkedin": "https://www.linkedin.com/in/yash-gupta-80a61526b/",
+      "github": "https://github.com/YashGupt29",
+      "tags": "Team Member"
+    }
+  ],
+  "dsa": [
+    {
+      "name": "Abhishek Verma",
+      "profile_pic": "https://res.cloudinary.com/diyxwdtjd/image/upload/v1693676795/DCC%20People/person-icon-black-background-person-solid-vector-eps-90447225_ypd8lq.webp",
+      "linkedin": "https://www.linkedin.com/in/abhishek-verma-428970230",
+      "github": "https://github.com/Abhishek-Verma75230",
+      "tags": "Lead"
+    },
+    {
+      "name": "Amit Singh Bisht",
+      "profile_pic": "https://i.postimg.cc/jSYbZ8d2/amit-singh-bisht.jpg",
+      "linkedin": "https://www.linkedin.com/in/amit-singh-bisht1",
+      "github": "https://github.com/BishtAmi",
+      "tags": "Lead"
+    },
+    {
+      "name": "Mayank Mohapatra",
+      "profile_pic": "https://i.postimg.cc/V6vQdp4G/Mayank-Mohapatra.jpg",
+      "linkedin": "https://www.linkedin.com/in/mayank-mohapatra-697744267",
+      "github": "https://github.com/Mayank77maruti",
+      "tags": "Team Member"
+    },
+    {
+      "name": "Lasya Cheela",
+      "profile_pic": "https://res.cloudinary.com/diyxwdtjd/image/upload/v1693676795/DCC%20People/person-icon-black-background-person-solid-vector-eps-90447225_ypd8lq.webp",
+      "linkedin": "https://www.linkedin.com/in/lasya-cheela-917b5a27a",
+      "github": "https://github.com/lasyareddycheela2807",
+      "tags": "Team Member"
+    }
+  ],
+  "cp": [
+    {
+      "name": "Vikram Singh",
+      "profile_pic": "https://res.cloudinary.com/diyxwdtjd/image/upload/v1693676795/DCC%20People/person-icon-black-background-person-solid-vector-eps-90447225_ypd8lq.webp",
+      "linkedin": "https://www.linkedin.com/in/vikram-singh-702b23288",
+      "github": "https://github.com/vikram110703",
+      "tags": "Lead"
+    },
+    {
+      "name": "Tejas Jha",
+      "profile_pic": "https://res.cloudinary.com/diyxwdtjd/image/upload/v1693676795/DCC%20People/person-icon-black-background-person-solid-vector-eps-90447225_ypd8lq.webp",
+      "linkedin": "https://www.linkedin.com/",
+      "github": "https://github.com/",
+      "tags": "Lead"
+    },
+    {
+      "name": "Kavi Khalique",
+      "profile_pic": "https://i.postimg.cc/nzgKq9Y8/kavi-khalique.jpg",
+      "linkedin": "https://www.linkedin.com/in/raj-tiwari-628089256/",
+      "github": "https://github.com/kavikhalique",
+      "tags": "Lead"
+    },
+    {
+      "name": "Vedant Vaidya",
+      "profile_pic": "https://i.postimg.cc/8P8B5WzM/IMG-0039.jpg",
+      "profile_pic": "https://i.postimg.cc/8P8B5WzM/IMG-0039.jpg",
+      "linkedin": "https://www.linkedin.com/in/vedant-vaidya-714503257",
+      "github": "https://github.com/vedant-vaidya-77",
+      "tags": "Team Member"
+    },
+    {
+      "name": "Raj Tiwari",
+      "profile_pic": "https://i.postimg.cc/TPkJY4K3/Raj-Tiwari.jpg",
+      "linkedin": "https://www.linkedin.com/in/payal-singh-9bba98258/",
+      "github": "https://github.com/RajTiwari23",
+      "tags": "Team Member"
+    },
+    {
+      "name": "Payel Singh",
+      "profile_pic": "https://i.postimg.cc/HnMwzWBr/Copy-of-IMG-0055.jpg",
+      "linkedin": "https://www.linkedin.com/in/payal-singh-9bba98258/",
+      "github": "https://github.com/payal-22",
+      "tags": "Team Member"
+    }
+  ],
+  "android": [
+    {
+      "name": "Aman Singh",
+      "profile_pic": "https://res.cloudinary.com/diyxwdtjd/image/upload/v1693676795/DCC%20People/person-icon-black-background-person-solid-vector-eps-90447225_ypd8lq.webp",
+      "linkedin": "https://www.linkedin.com/",
+      "github": "https://github.com/",
+      "tags": "Lead"
+    },
+    {
+      "name": "Prashan Kumar",
+      "profile_pic": "https://i.postimg.cc/bNNm9qpv/IMG-0175.jpg",
+      "linkedin": "https://www.linkedin.com/in/prashan-kumar-825558201",
+      "github": "https://github.com/sebesti0n",
+      "tags": "Lead"
+    },
+    {
+      "name": "Rudransh Srivastava",
+      "profile_pic": "https://res.cloudinary.com/diyxwdtjd/image/upload/v1693676795/DCC%20People/person-icon-black-background-person-solid-vector-eps-90447225_ypd8lq.webp",
+      "linkedin": "https://www.linkedin.com/in/",
+      "github": "https://github.com/",
+      "tags": "Team Member"
+    },
+    {
+      "name": "Shiv Shakti",
+      "profile_pic": "https://i.postimg.cc/sfJnWMF8/Shiv-Shakti.jpg",
+      "linkedin": "https://www.linkedin.com/in/shiv-shakti-7a1b52252",
+      "github": "https://github.com/",
+      "tags": "Team Member"
+    }
+  ],
+  "ml": [
+    {
+      "name": "Tanishq Kapoor",
+      "profile_pic": "https://i.postimg.cc/28gb0xhK/Tanishq-Kapoor.jpg",
+      "linkedin": "https://www.linkedin.com/in/tanishq-kapoor",
+      "github": "https://github.com/tanishqkapoor9",
+      "tags": "Lead"
+    },
+    {
+      "name": "Kaustav Mandal",
+      "profile_pic": "https://i.postimg.cc/dQHTyF1v/bg.jpg",
+      "linkedin": "https://www.linkedin.com/in/kaustav-mondal-b5a65223b/",
+      "github": "https://github.com/Kaustav02",
+      "tags": "Lead"
+    },
+    {
+      "name": "Ganesh",
+      "profile_pic": "https://i.postimg.cc/rFybmSHz/IMG-0077.jpg",
+      "linkedin": "https://www.linkedin.com/in/ganesh-rehan-balivada-7427a8256",
+      "github": "https://github.com/RavanaBhrama",
+      "tags": "Team Member"
+    },
+    {
+      "name": "Aditya Raj",
+      "profile_pic": "https://res.cloudinary.com/diyxwdtjd/image/upload/v1693676795/DCC%20People/person-icon-black-background-person-solid-vector-eps-90447225_ypd8lq.webp",
+      "linkedin": "https://www.linkedin.com/",
+      "github": "https://github.com/",
+      "tags": "Team Member"
+    }
+  ],
+  "sm": [
+    {
+      "name": "Kinshuk Datta",
+      "profile_pic": "https://res.cloudinary.com/diyxwdtjd/image/upload/v1693676586/DCC%20People/PR%20Team/Kinshuk_Datta_svedot.jpg",
+      "linkedin": "https://www.linkedin.com/in/kinshuk-datta-a6601b231",
+      "github": "https://github.com/",
+      "tags": "Lead"
+    },
+    {
+      "name": "Hansika Saha",
+      "profile_pic": "https://res.cloudinary.com/diyxwdtjd/image/upload/v1693676795/DCC%20People/person-icon-black-background-person-solid-vector-eps-90447225_ypd8lq.webp",
+      "linkedin": "https://www.linkedin.com/",
+      "github": "https://github.com/",
+      "tags": "Lead"
+    },
+    {
+      "name": "Arjun Paswan",
+      "profile_pic": "https://res.cloudinary.com/diyxwdtjd/image/upload/v1693676585/DCC%20People/PR%20Team/orjunPaswan_mqpvvz.jpg",
+      "linkedin": "https://www.linkedin.com/in/arjun-paswan-55b983220/",
+      "github": "https://github.com/",
+      "tags": "Lead"
+    },
+    {
+      "name": "Abhijit Rudra Paul",
+      "profile_pic": "https://res.cloudinary.com/diyxwdtjd/image/upload/v1693676795/DCC%20People/person-icon-black-background-person-solid-vector-eps-90447225_ypd8lq.webp",
+      "linkedin": "https://www.linkedin.com/in/abhijit-rudra-paul-984991251",
+      "github": "https://github.com/",
+      "tags": "Team Member"
+    },
+    {
+      "name": "Swapnonil Ghosh",
+      "profile_pic": "https://res.cloudinary.com/diyxwdtjd/image/upload/v1693676795/DCC%20People/person-icon-black-background-person-solid-vector-eps-90447225_ypd8lq.webp",
+      "linkedin": "https://www.linkedin.com/in/swapnonil-ghosh-nita",
+      "github": "https://github.com/Swapnonilghosh",
+      "tags": "Team Member"
+    },
+    {
+      "name": "Sukanya Majumder",
+      "profile_pic": "https://res.cloudinary.com/diyxwdtjd/image/upload/v1693676795/DCC%20People/person-icon-black-background-person-solid-vector-eps-90447225_ypd8lq.webp",
+      "linkedin": "https://www.linkedin.com/in/sukanya-majumder-724a00258",
+      "github": "https://www.linkedin.com/in/sukanya-majumder-724a00258",
+      "tags": "Team Member"
+    },
+    {
+      "name": "Anagha Kari",
+      "profile_pic": "https://i.postimg.cc/pL5r8tFh/Anagha-Kari.jpg",
+      "linkedin": "https://www.linkedin.com/in/anagha-kari-953b3b268",
+      "github": "https://www.linkedin.com/in/anagha-kari-953b3b268",
+      "tags": "Team Member"
+    }
+  ],
+  "gr": [
+    {
+      "name": "Ritika Majumder",
+      "profile_pic": "https://i.postimg.cc/zGfKq25B/20221117-130434-21-UEE094-Rittika-Majumder.jpg",
+      "linkedin": "https://www.linkedin.com/in/rittikamajumder21",
+      "github": "https://github.com/rits21",
+      "tags": "Lead"
+    },
+    {
+      "name": "Sadhana Sharma",
+      "profile_pic": "https://i.postimg.cc/Gp4dsPTc/Sadhana-Sharma.jpg",
+      "linkedin": "https://www.linkedin.com/in/sadhana-sharma-115914227",
+      "github": "https://github.com/sadhanasharma1",
+      "tags": "Lead"
+    },
+    {
+      "name": "Saumya Chandra",
+      "profile_pic": "https://res.cloudinary.com/diyxwdtjd/image/upload/v1693676795/DCC%20People/person-icon-black-background-person-solid-vector-eps-90447225_ypd8lq.webp",
+      "linkedin": "https://www.linkedin.com/",
+      "github": "https://github.com/",
+      "tags": "Team Member"
+    },
+    {
+      "name": "Yash Raj",
+      "profile_pic": "https://i.postimg.cc/rwnqmZmn/IMG-0041.jpg",
+      "linkedin": "https://www.linkedin.com/in/yash-raj-89617b24b",
+      "github": "https://github.com/dark1612",
+      "tags": "Team Member"
+    },
+    {
+      "name": "Juita Baidya ",
+      "profile_pic": "https://res.cloudinary.com/diyxwdtjd/image/upload/v1693676795/DCC%20People/person-icon-black-background-person-solid-vector-eps-90447225_ypd8lq.webp",
+      "linkedin": "http://www.linkedin.com/in/juita-baidya-563a51257",
+      "github": "http://github.com/juitabaidya",
+      "tags": "Team Member"
+    }
+  ],
+  "mention": [
+    {
+      "name": "Tanmay Shree",
+      "profile_pic": "https://i.postimg.cc/G2n4TX0v/IMG-20220120-174324-463-Tanmay-Shree.jpg",
+      "linkedin": "https://www.linkedin.com/in/tanmayshree",
+      "github": "https://github.com/tanmayshree",
+      "tags": "Event Head"
+    },
+    {
+      "name": "Rishita Bose",
+      "profile_pic": "https://i.postimg.cc/pXWnBcmZ/IMG-20210930-214511-460-20-UCS193-Rishita-Bose.webp",
+      "linkedin": "https://www.linkedin.com/in/rishita-bose-9040a1202",
+      "github": "https://github.com/rishita2023",
+      "tags": "Treasurer"
+    }
+  ],
+  "archieve21": [
+    {
+      "name": "Aditya Mani Tiwari",
+      "profile_pic": "https://i.postimg.cc/FzMnJPX5/adityamani.jpg",
+      "linkedin": "https://www.linkedin.com/in/aditya-mani-tiwari/",
+      "github": "https://github.com/router-hub",
+      "tags": "Mentor"
+    },
+    {
+      "name": "Tanya Rajhans",
+      "profile_pic": "https://i.postimg.cc/FzdBRMqV/tanya.jpg",
+      "linkedin": "http://linkedin.com/in/tanyarajhans",
+      "github": "http://github.com/tanyarajhans",
+      "tags": "Mentor"
+    }
+  ]
+}
